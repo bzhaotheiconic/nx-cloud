@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "bike-stores": "apps/bike-stores",
+    "bike-stores-e2e": "apps/bike-stores-e2e"
+  }
+}
